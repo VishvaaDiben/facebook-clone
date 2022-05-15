@@ -1,1 +1,1 @@
-Spring Boot full stack with Next Js, Next-Auth js, React-Redux Toolkit and Tailwind CSS
+Spring Boot full stack with:<br /> Next Js,<br /> Next-Auth js,<br /> React-Redux Toolkit<br /> and Tailwind CSS
